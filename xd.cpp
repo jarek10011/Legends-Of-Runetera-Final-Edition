@@ -1,2 +1,6 @@
 #include <iostream>
-chuj i na lem
+ int main(){
+	 std::cout<<"Bonifacy\n";
+	 std::cout<<"Bonifacxy\n";
+	 std::cout<<"Bonifaca\n";
+ }
